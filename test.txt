@@ -1,0 +1,49 @@
+100 MetersV:
+            6, JV:
+            36 
+        Athletic.netSeed
+       
+        UserEntered
+       Seed 
+ 12 Brayden Pfeiler 11.74 11.74 SPRG 
+ 10 Wiley Roberts 11.88 11.88 SPRG 
+ 12 Noah Mellen 12.07 12.07 SPRG 
+ 12 Jonathan Bickford 12.18 12.18 FGRO 
+ 12 Harrison Weems 12.57 12.57 FGRO 
+ 10 Christopher Simmons 12.82 12.82 FGRO 
+ 10 Preston Reason 12.12 12.12 SPRG 
+ 10 Chris Sharp 12.17 12.17 SPRG 
+ 11 Anthony Knott 12.42 12.42 FGRO 
+ 9 Adam Ferguson 12.42 12.42 SPRG 
+ 11 Brenden Berryman 12.61 12.61 SPRG 
+ 11 Garrett Jacobson 12.81 12.81 SPRG 
+ 10 Reign Bryant 12.85 12.85 SPRG 
+ 12 Kurtis Van Dyke 12.89 12.89 FGRO 
+ 9 Riley Zwicker 13.22 13.22 SPRG 
+ 12 Roop Singh 13.26 13.26 SPRG 
+ 12 Marvin Sanchez 13.42 13.42 SPRG 
+ 9 Carter Cook 13.69 13.69 SPRG 
+ 9 T. K. Dart 14.00 14.00 SPRG 
+ 9 Hanson Wang 14.00 14.00 SPRG 
+ 9 Zach Dewey 14.04 14.04 SPRG 
+ 11 Matthew Robles 14.10 14.10 FGRO 
+ 9 Jacob Strand 14.66 14.66 SPRG 
+ 10 KJ Kneeland 14.73 14.73 SPRG 
+ 10 Isaac Doyle 15.01 15.01 FGRO 
+ 10 David Rodriguez-Tapia 15.28 15.28 FGRO 
+ 10 Christopher Doyle FGRO 
+ 9 Jose Interian FGRO 
+ 9 Darius Johnson FGRO 
+ 11 Julius Jones FGRO 
+ 9 Alex Lopez FGRO 
+ 12 Kevin Soto FGRO 
+ 12 Jarrett Van Dyke FGRO 
+ 12 Brennen Young FGRO 
+ 11 Nathan Cook SPRG 
+ 11 Casey Cranford SPRG 
+ 12 Colby Evenson SPRG 
+ 11 Gabriel Garcia SPRG 
+ 11 Alex Nuss-Kile SPRG 
+ 11 Max Shaw SPRG 
+ 10 Camden White SPRG 
+ 9 Ivan Zhong SPRG 
